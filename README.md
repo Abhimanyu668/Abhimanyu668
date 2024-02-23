@@ -15,21 +15,20 @@
 ```javascript
 const abhimanyu = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Python", "C++", "sql"],
+    askMeAbout: ["web dev", "DSA", "tech", "photography"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
         },
         FrontEnd: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+            framework: ["NextJS", "ReactJS", "JQuery", "Tailwind", "BootStrap"]
+        },        
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "Redux Toolkit", "ThreeJS"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
+    currentFocus: " I am currently focusing on mastering the art of **System Design**",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
